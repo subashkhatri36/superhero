@@ -1,0 +1,19 @@
+{
+  "name": "superhero",
+  "version": "1.0.0",
+  "description": "A small superhero project.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/subashkhatri36/superhero.git"
+  },
+  "author": "Subash khatri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/subashkhatri36/superhero/issues"
+  },
+  "homepage": "https://github.com/subashkhatri36/superhero#readme"
+}
